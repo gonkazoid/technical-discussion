@@ -11,4 +11,4 @@ this is a demo repo for sharing ideas
  this is a gist example of [my code](https://gist.github.com/gonkazoid/b4811fbfbce8e20950d9f41a4f9a3dac)
 
  ### Colab Example
- this is the [notebook](
+ this is the [notebook](https://github.com/gonkazoid/technical-discussion/blob/main/technical_docs.ipynb)
