@@ -12,3 +12,6 @@ this is a demo repo for sharing ideas
 
  ### Colab Example
  this is the [notebook](https://github.com/gonkazoid/technical-discussion/blob/main/technical_docs.ipynb)
+
+### image
+<img width="316" height="186" alt="image" src="https://github.com/user-attachments/assets/3b1f1228-60d4-4573-b763-ab4b073dfd67" />
